@@ -1,12 +1,10 @@
 # PrimeiroCommit
 <h1 align="center"> Bem-vindo ao meu primeiro repositório</h1>
-:construction: Projeto em construção :construction:
+<h2 align="center">🍉 Comandos GIT 🍉</h2>
 
-<P>Ao construir este repositório, vamos conhecer os comando do git, entender a funcionalidade de um arquivo read.me e muito mais!</P>
-
-# :hammer: Funcionalidades do projeto
-
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `git init:`: Inicializa um novo repositório Git, criando um diretório .git no projeto.
+- `git clone`: Clona um repositório Git existente para o seu ambiente local.
+- `git add`: Adiciona alterações no arquivo especificado à área de preparação (staging).
+- `git log`: Exibe o histórico de commits do repositório.
+- `git push`: Envia as alterações locais para o repositório remoto.
+- `git pull`: Recupera as alterações do repositório remoto para o seu branch local.
